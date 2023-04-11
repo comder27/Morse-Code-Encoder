@@ -1,1 +1,1 @@
-# Morse-Code-Encoder
+Morse code encoder using Arduino-REES52UNO.
